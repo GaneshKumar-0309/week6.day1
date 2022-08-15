@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="LeafTaps">
+  <test name="Leads">
+    <classes>
+      <class name="week6.day1Assignments.CreateLead"/>
+      <class name="week6.day1Assignments.DeleteLead"/>
+      <class name="week6.day1Assignments.MergeContact"/>
+      <class name="week6.day1Assignments.EditLead"/>
+      <class name="week6.day1Assignments.DuplicateLead"/>
+    </classes>
+  </test> <!-- Leads -->
+</suite> <!-- LeafTaps -->
